@@ -253,6 +253,6 @@ These five points are enough for face alignment, gaze estimation, expression ana
 
 Reach out anytime. We will solve your query within 1 working day.
 
-[![Contact Us on WhatsApp about Face Detection API](https://raw.githubusercontent.com/omkarcloud/assets/master/images/whatsapp-us.png)](https://api.whatsapp.com/send?phone=918178804274&text=I%20have%20a%20question%20about%20the%20Face%20Detection%20API.)
+[![Contact Us on WhatsApp about Face Detection API](https://raw.githubusercontent.com/omkarcloud/assets/master/images/whatsapp-us.png)](https://www.omkar.cloud/l/face-detection-api-github-whatsapp)
 
-[![Contact Us on Email about Face Detection API](https://raw.githubusercontent.com/omkarcloud/assets/master/images/ask-on-email.png)](mailto:happy.to.help@omkar.cloud?subject=Face%20Detection%20API%20Question)
+[![Contact Us on Email about Face Detection API](https://raw.githubusercontent.com/omkarcloud/assets/master/images/ask-on-email.png)](https://www.omkar.cloud/l/face-detection-api-github-email)
